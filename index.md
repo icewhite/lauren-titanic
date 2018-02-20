@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lauren White's Titanic project
 
 You can use the [editor on GitHub](https://github.com/icewhite/lauren-titanic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
